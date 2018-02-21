@@ -8,3 +8,13 @@
 8 butadieno http://dle.rae.es/?id=6LsxQPa
 9 calumbre http://dle.rae.es/?id=6rr94oc
 10 lapacho http://dle.rae.es/?id=Mv7w904
+11. Armario http://dle.rae.es/srv/fetch?id=3ap5M5M
+12. Gafa http://dle.rae.es/srv/fetch?id=Ih6NRQV
+13. Acrecentar http://dle.rae.es/srv/search?m=30&w=acrecentar
+14. Casco http://dle.rae.es/srv/fetch?id=7nhdI1F 
+15. Ordenador http://dle.rae.es/srv/fetch?id=R9dHZWB
+16. Coche http://dle.rae.es/srv/search?m=30&w=coche 
+17. Violín http://dle.rae.es/srv/search?m=30&w=viol%C3%ADn
+18. Níveo http://dle.rae.es/srv/search?m=30&w=n%C3%ADveo
+19. Pulsera http://dle.rae.es/srv/search?m=30&w=pulsera
+20. Sonrisa http://dle.rae.es/srv/fetch?id=YMwB3Tw
